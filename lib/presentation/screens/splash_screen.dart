@@ -45,7 +45,7 @@ class _SplashScreenState extends State<SplashScreen>
           crossAxisAlignment: CrossAxisAlignment.stretch,
           children: [
             _getImage(context),
-            AnimatedText(title: 'To Do App', slideAnimation: _slideAnimation),
+            AnimatedText(title: 'Task Management App or To Do App', slideAnimation: _slideAnimation),
           ],
         ),
       ),
