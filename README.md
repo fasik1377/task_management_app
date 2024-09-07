@@ -9,6 +9,7 @@ This Task Management Application is a powerful and flexible task management appl
 - **Category Management**: Organize tasks into categories with custom colors.
 - **Task Details**: Add essential details like task name, description, date, start time, end time, category, and color.
 - **Task Status**: Easily toggle tasks between "Completed" and "To-Do" states.
+- **View Quotes**: Can view quotes easily by clicking "view quote" button when the app is opened.
 - **Dark Mode Support**: Seamlessly switch between light and dark themes.
 - **Local Data Storage**: Utilizes Hive as a local database to store your essential task data.
 - **Category Task List**: View all tasks associated with a specific category.
